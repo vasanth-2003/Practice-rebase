@@ -9,15 +9,14 @@ function App() {
   return (
     <>
       
-      <h1>Vite + React</h1>
+      <h1>Welcome To React World</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        
         <h1>New freature Added +1</h1>
+        <p>new pragraph line added</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
