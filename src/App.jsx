@@ -16,6 +16,7 @@ function App() {
         </button>
         
         <h1>New freature Added +1</h1>
+        <p>new pragraph line added</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
